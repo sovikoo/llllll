@@ -1,0 +1,31 @@
+<html>
+  <head>
+    <title>милси</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="leonov.html">милси</a>
+    </header>
+    <main>
+      <nav>
+        <a class="link-nav" href="mysites.html"><b>мои лучшие работы</b></a>
+        <a class="link-nav" href="info.html"><b>полезная информация</b></a>
+      </nav>
+      <div>
+      <h1>Мои <br/> увлечения </h1>
+    
+      <p> люблю прекрасное далеко </p>
+      <p> не знаю математики </p>
+      <p>знаю к-поп </p>
+      <p>все конец</p>
+      </div>
+      <img src="https://cs11.pikabu.ru/post_img/2018/11/25/0/1543094178138677587.jpg" width="830px" height="550px"/>
+    </main>
+    <footer>
+      <a class="social" href=""><img src="https://backoffice.algoritmika.org/uploads/2021/04/social1_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href=""><img src="https://backoffice.algoritmika.org/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href=""><img src="https://backoffice.algoritmika.org/uploads/2021/04/social3_0_1618254571.png" width="100px" height="100px"/></a>
+    </footer>
+  </body>
+</html>
